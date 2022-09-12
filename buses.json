@@ -1,0 +1,360 @@
+[
+  {
+    "id": 17706518,
+    "name": "353-422",
+    "lat": 28.389811,
+    "lon": -81.4884865,
+    "heading": null,
+    "route": 424,
+    "lastStop": 500565,
+    "fields": {},
+    "lastUpdate": 1662951192
+  },
+  {
+    "id": 17706446,
+    "name": "320-420",
+    "lat": 28.437599166667,
+    "lon": -81.471885833333,
+    "heading": null,
+    "route": 426,
+    "lastStop": 500584,
+    "fields": {},
+    "lastUpdate": 1662951194
+  },
+  {
+    "id": 17706394,
+    "name": "271-619",
+    "lat": 28.419475166667,
+    "lon": -81.460053833333,
+    "heading": null,
+    "route": 427,
+    "lastStop": 500732,
+    "fields": {},
+    "lastUpdate": 1662951187
+  },
+  {
+    "id": 17706275,
+    "name": "233-616",
+    "lat": 28.47213,
+    "lon": -81.441758166667,
+    "heading": null,
+    "route": 428,
+    "lastStop": 500709,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951197
+  },
+  {
+    "id": 17706381,
+    "name": "289-419",
+    "lat": 28.446377833333,
+    "lon": -81.4001015,
+    "heading": null,
+    "route": 450,
+    "lastStop": 500518,
+    "fields": {},
+    "lastUpdate": 1662951176
+  },
+  {
+    "id": 17706510,
+    "name": "345-422",
+    "lat": 28.422397833333,
+    "lon": -81.421558833333,
+    "heading": null,
+    "route": 460,
+    "lastStop": 502404,
+    "fields": {},
+    "lastUpdate": 1662951183
+  },
+  {
+    "id": 17706459,
+    "name": "323-421",
+    "lat": 28.445904333333,
+    "lon": -81.400321333333,
+    "heading": null,
+    "route": 462,
+    "lastStop": 500518,
+    "fields": {},
+    "lastUpdate": 1662951195
+  },
+  {
+    "id": 17706445,
+    "name": "319-420",
+    "lat": 28.4372745,
+    "lon": -81.310191833333,
+    "heading": null,
+    "route": 463,
+    "lastStop": 502608,
+    "fields": {},
+    "lastUpdate": 1662951192
+  },
+  {
+    "id": 17706495,
+    "name": "334-422",
+    "lat": 28.525464833333,
+    "lon": -81.3103215,
+    "heading": null,
+    "route": 464,
+    "lastStop": 500372,
+    "fields": {},
+    "lastUpdate": 1662951189
+  },
+  {
+    "id": 17706443,
+    "name": "317-420",
+    "lat": 28.404888666667,
+    "lon": -81.578122833333,
+    "heading": null,
+    "route": 507,
+    "lastStop": 505222,
+    "fields": {},
+    "lastUpdate": 1662951189
+  },
+  {
+    "id": 17706432,
+    "name": "306-420",
+    "lat": 28.473238833333,
+    "lon": -81.455907666667,
+    "heading": null,
+    "route": 508,
+    "lastStop": 505222,
+    "fields": {},
+    "lastUpdate": 1662951190
+  },
+  {
+    "id": 17706129,
+    "name": "107-412",
+    "lat": 28.391596666667,
+    "lon": -81.564352833333,
+    "heading": null,
+    "route": 508,
+    "lastStop": 505222,
+    "fields": {
+      "type": "mentor"
+    },
+    "lastUpdate": 1662951195
+  },
+  {
+    "id": 17706163,
+    "name": "153-414",
+    "lat": 28.450148333333,
+    "lon": -81.403041666667,
+    "heading": null,
+    "route": 563,
+    "lastStop": 506086,
+    "fields": {
+      "type": "mentor"
+    },
+    "lastUpdate": 1662951201
+  },
+  {
+    "id": 17706198,
+    "name": "186-415",
+    "lat": 28.444807333333,
+    "lon": -81.399379166667,
+    "heading": null,
+    "route": 566,
+    "lastStop": 502431,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951206
+  },
+  {
+    "id": 17706133,
+    "name": "117-412",
+    "lat": 28.423505,
+    "lon": -81.462135,
+    "heading": null,
+    "route": 566,
+    "lastStop": 500732,
+    "fields": {
+      "type": "mentor"
+    },
+    "lastUpdate": 1662951190
+  },
+  {
+    "id": 17706197,
+    "name": "185-415",
+    "lat": 28.404707,
+    "lon": -81.578245,
+    "heading": null,
+    "route": 607,
+    "lastStop": 505222,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951192
+  },
+  {
+    "id": 17706174,
+    "name": "164-414",
+    "lat": 28.332694333333,
+    "lon": -81.510844666667,
+    "heading": null,
+    "route": 607,
+    "lastStop": 508426,
+    "fields": {
+      "type": "mentor"
+    },
+    "lastUpdate": 1662951193
+  },
+  {
+    "id": 17706151,
+    "name": "148-414",
+    "lat": 28.294727666667,
+    "lon": -81.403454666667,
+    "heading": null,
+    "route": 608,
+    "lastStop": 501280,
+    "fields": {
+      "type": "mentor"
+    },
+    "lastUpdate": 1662951189
+  },
+  {
+    "id": 17706195,
+    "name": "183-415",
+    "lat": 28.329914833333,
+    "lon": -81.472881,
+    "heading": null,
+    "route": 608,
+    "lastStop": 508473,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951197
+  },
+  {
+    "id": 17706194,
+    "name": "182-415",
+    "lat": 28.409864833333,
+    "lon": -81.5902245,
+    "heading": null,
+    "route": 608,
+    "lastStop": 505222,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951203
+  },
+  {
+    "id": 17706211,
+    "name": "210-415",
+    "lat": 28.496698666667,
+    "lon": -81.459171166667,
+    "heading": null,
+    "route": 680,
+    "lastStop": 504097,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951198
+  },
+  {
+    "id": 17706398,
+    "name": "275-619",
+    "lat": 28.4447105,
+    "lon": -81.400516166667,
+    "heading": null,
+    "route": 680,
+    "lastStop": 502025,
+    "fields": {},
+    "lastUpdate": 1662951172
+  },
+  {
+    "id": 17706408,
+    "name": "288-619",
+    "lat": 28.526713666667,
+    "lon": -81.470654166667,
+    "heading": null,
+    "route": 681,
+    "lastStop": 506003,
+    "fields": {},
+    "lastUpdate": 1662951201
+  },
+  {
+    "id": 17706437,
+    "name": "311-420",
+    "lat": 28.4377365,
+    "lon": -81.471864666667,
+    "heading": null,
+    "route": 697,
+    "lastStop": 500584,
+    "fields": {},
+    "lastUpdate": 1662951192
+  },
+  {
+    "id": 17706274,
+    "name": "257-416",
+    "lat": 28.5487635,
+    "lon": -81.381917833333,
+    "heading": null,
+    "route": 697,
+    "lastStop": 504216,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951196
+  },
+  {
+    "id": 17706425,
+    "name": "299-420",
+    "lat": 28.425669,
+    "lon": -81.4675015,
+    "heading": null,
+    "route": 698,
+    "lastStop": 500731,
+    "fields": {},
+    "lastUpdate": 1662951195
+  },
+  {
+    "id": 17706080,
+    "name": "18-309",
+    "lat": 28.381196833333,
+    "lon": -81.5070635,
+    "heading": null,
+    "route": 702,
+    "lastStop": 505837,
+    "fields": {
+      "type": "mentor"
+    },
+    "lastUpdate": 1662951202
+  },
+  {
+    "id": 17706259,
+    "name": "228-616",
+    "lat": 28.5093665,
+    "lon": -81.402032166667,
+    "heading": null,
+    "route": 702,
+    "lastStop": 502402,
+    "fields": {
+      "type": "clever"
+    },
+    "lastUpdate": 1662951153
+  },
+  {
+    "id": 17706384,
+    "name": "262-619",
+    "lat": 28.525900333333,
+    "lon": -81.386487166667,
+    "heading": null,
+    "route": 703,
+    "lastStop": 500654,
+    "fields": {},
+    "lastUpdate": 1662951195
+  },
+  {
+    "id": 17706376,
+    "name": "248-416",
+    "lat": 28.367903833333,
+    "lon": -81.5209315,
+    "heading": null,
+    "route": 703,
+    "lastStop": 505540,
+    "fields": {},
+    "lastUpdate": 1662951196
+  }
+]
