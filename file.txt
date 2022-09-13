@@ -1,0 +1,18 @@
+//my selected stop
+{
+    "id": 501677,
+    "name": "N ALAFAYA TRL AND UNIVERSITY BLVD",
+    "code": "3485",
+    "description": null,
+    "lat": 28.597469268955,
+    "lon": -81.207642696542,
+    "buddy": null,
+    "fields": {
+      "streets_key": "d9b39350-61d9-4482-b45b-241d064c19ae"
+    }
+
+take screenshot of this ^ on bus app online 
+
+pick 3 json tags: 
+id, name, lat/lon
+explain each
