@@ -12,6 +12,8 @@
     }
 
 take screenshot of this ^ on bus app online 
+stop code 3399
+
 
 pick 3 json tags: 
 id, name, lat/lon
