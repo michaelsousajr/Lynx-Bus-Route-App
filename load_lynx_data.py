@@ -3,13 +3,9 @@
 # http://golynx.doublemap.com/map/v2/routes
 # http://golynx.doublemap.com/map/v2/stops
 
-# Lynx Bus Tracker web app:
-# http://golynx.doublemap.com/map/
-
 import json
 from collections import namedtuple
 import time
-import sys
 
 # Convert json dictionary into a a list of objects
 # based on: https://pynative.com/python-convert-json-data-into-custom-python-object/
@@ -23,11 +19,11 @@ def load_lynx_json ( c_name, f_name):
     with open( f_name, 'r' ) as fp: 
         #Load the JSON 
         json_dict = json.load(fp)
-        object_list = []
+        class_list = []
         for i in range( len( json_dict)) :
-            tmp = custom_json_decoder( c_name, json_dict[i])
-            object_list.append(tmp)
-        return object_list
+            tmp = custom_json_decoder( 'X', json_dict[i])
+            class_list.append(tmp)
+        return class_list
             
 # Given a stop code, such as "1745", lookup the corresponding stop info
 def search_stops_by_code ( target_code, stop_list ):
@@ -58,9 +54,7 @@ def print_stop_names( route_info, stops_list, target_stop_code ):
             
 def main():
 
-    #target_stop = '1745'
-    target_stop = sys.argv[1]
-    print( target_stop )
+    target_stop = '3399'
     
     # Buses - not used in this example (future use)
     master_buses_list = load_lynx_json( 'Buses', "buses.json")
@@ -85,7 +79,6 @@ def main():
     print_stop_names( route_info_for_stop, master_stops_list, target_stop )
     t1 = time.perf_counter_ns() - t0
     print( "elapsed " + str(t1))
-
-   
+    
 if __name__ == "__main__":
     main( )

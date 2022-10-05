@@ -356,5 +356,16 @@
     "lastStop": 505540,
     "fields": {},
     "lastUpdate": 1662951196
+  },
+  {
+    "id": 12345678,
+    "name": "999-999",
+    "lat": 10.333333333333,
+    "lon": -10.3333333,
+    "heading": null,
+    "route": 705,
+    "lastStop": 505540,
+    "fields": {},
+    "lastUpdate": 1662951196
   }
 ]
